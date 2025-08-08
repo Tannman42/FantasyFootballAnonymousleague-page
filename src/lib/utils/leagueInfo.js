@@ -8,7 +8,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>Welcome to the Fantasy Football Anonymous League Website. This is our first league year 2025 with your commisioners being Miles and Tanner. We look forward to updating this information as our league continues on! This league is mix of family and friends which make the matchups nice and juicy.</p>
-  <p>Current Season Power Rankings</p>
+  <p>We have one team that is co-owned by Travis and Andrew (Minnesota D/ST Super K) with the rest of the teams being just one Owner. Milesreich, Austin425, Password is Tanner, NickFolesAlmighty, OneHandyAndy, Fudnucker, TheDrag1999, Shoon, JahnD, GriffinSmall and last but very least SnartFiffers. We look forward to some exciting years to come in this League.</p>
+
+   <p> Power Rankings </p>
 
 `;
 
