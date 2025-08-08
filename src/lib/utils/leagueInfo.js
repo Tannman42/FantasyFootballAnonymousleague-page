@@ -27,8 +27,8 @@ export const managers = [
      
       "roster": 1,  "723748468010594304" 
        "name": "Tanner",
-       "tookOver": 2025, // (optional) used if a manager took over a team, delete this line or change to null otherwise
-     "location": "Seattle", // (optional)
+       "tookOver": 2025, 
+     "location": "Seattle", 
     //   "bio": "Lorem ipsum...",
     //   "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
     //   "fantasyStart": 2013, // (optional) when did the manager start playing fantasy football
