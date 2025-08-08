@@ -27,17 +27,15 @@ export const managers = [
      
       "roster": 1,  "723748468010594304" 
        "name": "Tanner",
-       "tookOver": 2025, 
-     "location": "Seattle", 
-    //   "bio": "Lorem ipsum...",
+       
+    
+  
       "photo": "https://sleepercdn.com/uploads/1b87dc3c22baf0e790e98fbe3dfb856b.jpg", 
-    //   "fantasyStart": 2013, // (optional) when did the manager start playing fantasy football
-    //   "favoriteTeam": "sea", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
-    //   "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
-    //   "rival": {
-    //     name: "Miles", // Can be anything (usually your rival's name)
+    
+     "rival": {
+        name: "Miles", // Can be anything (usually your rival's name)
     //     link: 6, // manager array number within this array, or null to link back to all managers page
-    //     image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
+         image: "74253f3ab7c5fdbe66d50157fc2e9374", 
     //   },
     //   "favoritePlayer": 1426, // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
     //   "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
