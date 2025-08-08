@@ -27,7 +27,7 @@ export const managers = [
      
       "roster": 1,  "723748468010594304" 
        "name": "Tanner",
-       
+       "Managerid" "Tanner" "Userid" "723748468010594304"
     
   
       "photo": "https://sleepercdn.com/uploads/1b87dc3c22baf0e790e98fbe3dfb856b.jpg", 
